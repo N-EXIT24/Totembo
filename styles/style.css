@@ -529,6 +529,14 @@ body{
         width: 400px;
     }
 
+    .item-1__text{
+        margin-bottom: 40px;
+    }
+
+    .item__img{
+        width: 280px;
+    }
+
     .item-2{
         width: 400px;
     }
